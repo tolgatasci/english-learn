@@ -1,0 +1,32 @@
+├── requirements.txt
+├── .env.example
+├── setup.py
+├── README.md
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config.py
+│   ├── database.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── user.py
+│   │   ├── word.py
+│   │   └── user_word.py
+│   ├── schemas/
+│   │   ├── __init__.py
+│   │   ├── user.py
+│   │   └── word.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── endpoints/
+│   │   │   ├── __init__.py
+│   │   │   ├── users.py
+│   │   │   └── words.py
+│   │   └── deps.py
+│   └── utils/
+│       ├── __init__.py
+│       └── security.py
+└── tests/
+    ├── __init__.py
+    ├── test_api.py
+    └── test_db.py
