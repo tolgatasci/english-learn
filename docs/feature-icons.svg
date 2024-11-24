@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icons for features -->
+  <g transform="translate(50, 50)">
+    <!-- Spaced Repetition -->
+    <circle cx="0" cy="0" r="20" fill="#4F46E5"/>
+    <text x="0" y="7" font-family="Arial" font-size="20" fill="white" text-anchor="middle">🔄</text>
+  </g>
+  
+  <g transform="translate(200, 50)">
+    <!-- Word Learning -->
+    <circle cx="0" cy="0" r="20" fill="#7C3AED"/>
+    <text x="0" y="7" font-family="Arial" font-size="20" fill="white" text-anchor="middle">📝</text>
+  </g>
+  
+  <g transform="translate(350, 50)">
+    <!-- Progress Tracking -->
+    <circle cx="0" cy="0" r="20" fill="#4F46E5"/>
+    <text x="0" y="7" font-family="Arial" font-size="20" fill="white" text-anchor="middle">📊</text>
+  </g>
+  
+  <g transform="translate(500, 50)">
+    <!-- Voice Recognition -->
+    <circle cx="0" cy="0" r="20" fill="#7C3AED"/>
+    <text x="0" y="7" font-family="Arial" font-size="20" fill="white" text-anchor="middle">🎤</text>
+  </g>
+  
+  <g transform="translate(650, 50)">
+    <!-- Quiz System -->
+    <circle cx="0" cy="0" r="20" fill="#4F46E5"/>
+    <text x="0" y="7" font-family="Arial" font-size="20" fill="white" text-anchor="middle">✅</text>
+  </g>
+</svg>

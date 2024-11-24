@@ -1,16 +1,34 @@
+![English Learning App](docs/header-image.svg)
+
 # English Learning App
 
 Modern bir İngilizce öğrenme uygulaması. FastAPI ve MySQL kullanılarak geliştirilmiştir.
 
-## Özellikler
+![Features](docs/3.png)
 
-- Spaced Repetition sistemi
-- Kelime öğrenme ve tekrar
-- İlerleme takibi
-- Ses tanıma desteği
-- Quiz sistemi
+## ✨ Özellikler
 
-## Kurulum
+🔄 **Spaced Repetition sistemi**
+- Akıllı tekrar algoritması
+- Kişiselleştirilmiş öğrenme deneyimi
+
+📝 **Kelime öğrenme ve tekrar**
+- Kapsamlı kelime veritabanı
+- İnteraktif alıştırmalar
+
+📊 **İlerleme takibi**
+- Detaylı istatistikler
+- Öğrenme analitiği
+
+🎤 **Ses tanıma desteği**
+- Telaffuz pratikleri
+- Gerçek zamanlı geri bildirim
+
+✅ **Quiz sistemi**
+- Çeşitli soru tipleri
+- Anlık performans değerlendirmesi
+
+## 🚀 Kurulum
 
 1. Gerekli paketlerin kurulumu:
 ```bash
